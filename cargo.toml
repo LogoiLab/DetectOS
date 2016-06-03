@@ -1,0 +1,11 @@
+[package]
+name = "DetectOS"
+version = "0.0.1"
+authors = ["LogoiLab <LogoiLab@github.com>"]
+publish = false
+
+[dependencies]
+
+[lib]
+name = "detectos"
+path = "src/lib.rs"
